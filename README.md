@@ -21,7 +21,8 @@ This project analyzes UPI transaction data to identify trends, transaction patte
 transaction types and values
 
 ## 📷 Dashboard Preview
-[Loan+Default+-+Copy+(1).pdf](https://github.com/user-attachments/files/25346219/Loan%2BDefault%2B-%2BCopy%2B.1.pdf)
+
+[Size+&+Position+Slicers.pptx](https://github.com/user-attachments/files/25346307/Size%2B.%2BPosition%2BSlicers.pptx)
 
 ## 🚀 How to Use
 1. Download the Excel/Power BI file
